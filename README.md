@@ -7,7 +7,7 @@
 [![me@lucafluri.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch)
   
   
-👨‍💻 24 year old developer  
+👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science here in Switzerland  
 🚧 **Current Project:** [Price Tracker](https://github.com/lucafluri/price_tracker)
 
