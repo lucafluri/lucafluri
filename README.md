@@ -10,6 +10,3 @@
 👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science here in Switzerland  
 🚧 **Current Project:** [Price Tracker](https://github.com/lucafluri/price_tracker)
-
-
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=lucafluri.lucafluri)-->
