@@ -9,4 +9,6 @@
   
 👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science (BSc 5th Semester)  
-🚧 **Current Project:** [Price Tracker Flutter App](https://github.com/lucafluri/price_tracker)
+🚧 **Current Project:** [Price Tracker Flutter App](https://github.com/lucafluri/price_tracker)  
+
+<!-- [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/lucafluri) -->
