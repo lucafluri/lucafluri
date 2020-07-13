@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucafluri&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=151515">
 
 ### Hi there I'm Luca :lemon:
 
