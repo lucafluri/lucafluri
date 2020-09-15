@@ -4,7 +4,7 @@
 
 [![lucafluri.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.lucafluri.ch/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
-[![me@lucafluri.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch)
+[![dev@lucafluri.ch](https://img.shields.io/static/v1?label=dev@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@lucafluri.ch)
   
   
 👨‍💻 24 Years old Developer  
