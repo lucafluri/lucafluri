@@ -9,9 +9,12 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
 [![dev@lucafluri.ch](https://img.shields.io/static/v1?label=dev@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@lucafluri.ch)
   
-  
+
 👨‍💻 24 Years old Developer  
 👨‍🎓 Studying Computer Science  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+
 🚧 **Current Project:** [Price Tracker Flutter App](https://github.com/lucafluri/price_tracker)  
 
 
