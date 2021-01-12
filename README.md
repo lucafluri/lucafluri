@@ -1,7 +1,6 @@
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
-</p>
+
 
 
 ### Hi there I'm Luca :lemon:
