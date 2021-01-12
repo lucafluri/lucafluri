@@ -14,7 +14,7 @@
 👨‍🎓 Studying Computer Science  
 🚧 **Current Project:** [Price Tracker Flutter App](https://github.com/lucafluri/price_tracker)  
 
-<img style="margin-left: auto; margin-right: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" style="margin-left: auto; margin-right: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&theme=dark&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
 
 <!-- [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/lucafluri) -->
