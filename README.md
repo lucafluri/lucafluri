@@ -10,7 +10,7 @@
 [![dev@lucafluri.ch](https://img.shields.io/static/v1?label=dev@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@lucafluri.ch)
   
 
-👨‍💻 24 Years old Developer  
+👨‍💻 25 Years old Developer  
 👨‍🎓 Studying Computer Science  
 🚧 **Current Project:** [Price Tracker Flutter App](https://github.com/lucafluri/price_tracker)  
 
