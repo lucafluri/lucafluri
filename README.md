@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucafluri&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
 
-
+    
 
 ### Hi there I'm Luca :lemon:
 
@@ -18,3 +18,7 @@
 
 
 <!-- [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/lucafluri) -->
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucafluri&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
